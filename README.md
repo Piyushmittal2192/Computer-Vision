@@ -4,4 +4,7 @@ Image processing and deep learning based Computer Vision
 - Color Spaces
 - Image Filtering
 - Image Smoothing
-  - ss
+  - Box Blur
+  - Gaussian Blur
+  - Median Blur
+  - Bilateral Blur
